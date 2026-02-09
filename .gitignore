@@ -1,0 +1,10 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# OS junk
+Thumbs.db
+.DS_Store
